@@ -1,4 +1,4 @@
-The online monitoring solution is a software component responsible to integrate data from sensors during production experiments (thermocouples or any other sensors used) with simulation data as well as the curing cycle data into a unified visual interactive tool. Its results and data logs are meant to be saved and added to the main knowledge base. It is part of the [SIMUTOOL Knowledge Management Suite](https://github.com/simutool/general) of software, for more information about the project please visit that link.
+The online monitoring solution is a software component responsible to integrate data from sensors during production experiments (thermocouples or any other sensors used) with simulation data as well as the curing cycle data into a unified visual interactive tool. Its results and data logs are meant to be saved and added to the main knowledge base. It is part of the [SIMUTOOL Knowledge Management Suite](https://github.com/simutool/general) of software.
 
 # Installation
 
