@@ -89,7 +89,7 @@
     "webpack": "4.19.1",
     "webpack-bundle-analyzer": "^2.9.0",
     "webpack-cleanup-plugin": "^0.5.1",
-    "webpack-cli": "^2.1.4",
+    "webpack-cli": "^5.0.1",
     "webpack-dev-server": "^3.1.0",
     "webpack-merge": "^4.1.0",
     "zone.js": "^0.7.2"
